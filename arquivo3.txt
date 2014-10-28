@@ -1,1 +1,4 @@
 teste arquivo 3
+teste inclusao 1-3
+teste inclusao 2-3
+d
